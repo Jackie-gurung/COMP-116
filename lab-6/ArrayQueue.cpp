@@ -1,7 +1,3 @@
-//
-// Created by aadarsha on 10/31/20.
-//
-
 #include "ArrayQueue.h"
 
 int ArrayQueue::insert(int a) {
